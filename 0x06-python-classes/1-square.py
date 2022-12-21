@@ -11,4 +11,7 @@ class Square:
 	this class has private instance attribute 'size'
     """
     def __init__(self, size):
+	"""
+	    this is an init method
+	"""
 	self.__size = size
